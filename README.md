@@ -54,6 +54,8 @@ cd smart-city-assistant
 ```
 Install dependencies
 
+
+
 ```bash
 pip install -r requirements.txt
 ```
@@ -66,3 +68,13 @@ Run the Streamlit frontend
 ```bash
 streamlit run main.py
 ```
+
+<img width="2879" height="1707" alt="Screenshot 2025-07-26 130642" src="https://github.com/user-attachments/assets/071dacf9-7341-40db-9235-f735bd57792a" />
+
+<img width="2872" height="1696" alt="Screenshot 2025-07-26 130820" src="https://github.com/user-attachments/assets/371ffe75-8cf5-4bc5-8edf-0cb0931b36f1" />
+
+<img width="2879" height="1697" alt="Screenshot 2025-07-26 131132" src="https://github.com/user-attachments/assets/11a2d6e6-11c0-4fa6-94c7-0a60508e229f" />
+
+<img width="2879" height="1702" alt="Screenshot 2025-07-26 131949" src="https://github.com/user-attachments/assets/892b7dc9-17e0-4a4e-9236-2b2de37fc39b" />
+
+
